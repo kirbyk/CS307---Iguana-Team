@@ -1,3 +1,15 @@
 [submodule "iguana-server"]
 	path = iguana-server
 	url = git@github.com:scottopell/iguana-server.git
+[submodule "iguana-ios"]
+	path = iguana-ios
+	url = git@github.com:alecgorge/iguana-ios.git
+[submodule "iguana-chrome"]
+	path = iguana-chrome
+	url = https://github.com/kirbyk/iguana-chrome
+[submodule "iguana-web"]
+	path = iguana-web
+	url = git@github.com:alecgorge/iguana-web.git
+[submodule "relisten-osx"]
+	path = relisten-osx
+	url = git@github.com:alecgorge/relisten-osx.git
