@@ -1,0 +1,3 @@
+[submodule "iguana-server"]
+	path = iguana-server
+	url = git@github.com:scottopell/iguana-server.git
